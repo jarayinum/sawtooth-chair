@@ -1,0 +1,15 @@
+{
+  "name": "chair-processor",
+  "version": "1.0.0",
+  "description": "this is a small try to create and transfer the asset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muniyaraj",
+  "license": "ISC",
+  "dependencies": {
+    "cbor": "^4.1.4",
+    "sawtooth-sdk": "^1.0.5"
+  }
+}
